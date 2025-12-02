@@ -35,7 +35,7 @@ My research interests include:
 - Jun Zhou<sup>[📧](mailto:zhoujun@mail.xjtu.edu.cn)</sup>, **Chengze Ji**, Ruhuan Li, Xuhui Song, Kai Wu, Yonghong Cheng. Recent development in the technology of water electrolysis and its applications to new power systems (电解水制氢技术发展现状及其在新型电力系统中的应用进展)[J]. **High Voltage Engineering (高电压技术)**,2025,51(05):2096-2113. [View Paper →](https://doi.org/10.13336/j.1003-6520.hve.20242050)
 - **Chengze Ji**, Lixin Jia<sup>[📧](mailto:lxjia@xjtu.edu.cn)</sup>, Jinghui Li. Research on two types of defect detection of transmission tower based on improved YOLOv5s (基于改进YOLOv5s的两种输电杆塔缺陷检测研究)[J]. **Computer Technology and Development (计算机技术与发展)**,2024,34(02):180-185. [View Paper →](https://doi.org/10.3969/j.issn.1673-629X.2024.02.026)
 - Zitong Qiu, Xiaotong Zhang, Yangyang Ge, Ruhuan Li, Haonan Li, **Chengze Ji**, Kai Wu, Jun Zhou. Modeling and efficiency analysis of switching process in reversible
-PEM fuel cells (可逆PEM燃料电池建模及切换过程系统效率分析研究)[J]. **Chinese Journal of Power Sources (电源技术)**,2025,49(03):596-607. [View Paper →](https://doi.org/10.3969/j.issn.1002-087X.2025.03.018) 
+PEM fuel cells (可逆PEM燃料电池建模及切换过程系统效率分析研究)[J]. **Chinese Journal of Power Sources (电源技术)**,2025,49(03):596-607. [View Paper →](https://doi.org/10.3969/j.issn.1002-087X.2025.03.018)
 
 
 
