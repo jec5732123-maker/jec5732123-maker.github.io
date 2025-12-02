@@ -25,10 +25,10 @@ My research interests include:
 
 
 
-## 🔥 News {#news}
+# 🔥 News 
 - *2025.11*: &nbsp;🎉🎉 A paper of mine has been accepted by journal **International Journal of Hydrogen Energy** (IF = 8.3). 
 
-## 📝 Publications {#publications}
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
