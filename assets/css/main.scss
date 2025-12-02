@@ -87,6 +87,11 @@
 
 }
 
+.svg-icon {
+    width: 20px !important;
+    height: auto !important;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
