@@ -26,7 +26,7 @@ My research interests include:
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 A paper of mine has been accepted by journal *International Journal of Hydrogen Energy* (IF ≈ 8.1). 
+- *2025.11*: &nbsp;🎉🎉 A paper of mine has been accepted by journal *International Journal of Hydrogen Energy* (IF = 8.3). 
 
 # 📝 Publications 
 
