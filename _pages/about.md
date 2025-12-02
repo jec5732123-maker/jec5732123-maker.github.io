@@ -72,6 +72,6 @@ PEM fuel cells (可逆PEM燃料电池建模及切换过程系统效率分析研�
 - 2024.04, Participated in the 2024 9th Asia Conference on Power and Electrical Engineering (ACPEE 2024) and delivered a poster presentation, Shanghai, China.
 - *2024.01 - 2024.02*, Winter academic visit at Khalifa University, Abu Dhabi, UAE.
 
-# 🌍 A Little Bit of Me
+# 🌍 A Little Bit of Me (Non-Academic Part)
 (Dreams) Progress in Observing the World:
 🇨🇳🇭🇰🇲🇴🇹🇭🇲🇾🇸🇬🇦🇪🇯🇵...
