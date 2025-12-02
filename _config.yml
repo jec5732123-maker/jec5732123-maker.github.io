@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengze Ji"
-description              : "Master student in Xi'an Jiaotong University"
+description              : "Master student"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chengze Ji"
   avatar           : "images/Chengze-Ji.png"
-  bio              : "Master student in Xi'an Jiaotong University"
+  bio              : "School of Electrical Engineering, Xi'an Jiaotong University"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
