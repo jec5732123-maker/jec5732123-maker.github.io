@@ -46,6 +46,8 @@ PEM fuel cells (可逆PEM燃料电池建模及切换过程系统效率分析研�
 - Ruhuan Li, Jun Zhou<sup>[📧](mailto:zhoujun@mail.xjtu.edu.cn)</sup>, Zitong Qiu, **Chengze Ji**. Optimization of an integrated energy system with reversible solid oxide cell based on shapley's value method[C]//2024 3rd Asia Power and Electrical Technology Conference (**APET**). IEEE, 2024: 786-791. [View Paper →](https://doi.org/10.1109/APET63768.2024.10882793)
 
 ## Patents
+- Jun Zhou, **Chengze Ji**, Ruhuan Li, Xitong Zhang, Yangyang Ge, Jinman Li, Kai Wu. A control method for switching operating states in an electricity–hydrogen conversion device. CN Patent CN120810811A, 2025.
+- Fan Zhang, Xuhui Song, **Chengze Ji**, Yuze Zheng, Jiajing Li, Kailong Ji, Xiaolu Zhang, Kaixiang Gong. An active neutral-point voltage balancing method for suppressing low-frequency AC components in three-level inverters. CN Patent CN118783797A, 2024.
 
 
 # 🎖 Honors and Awards
