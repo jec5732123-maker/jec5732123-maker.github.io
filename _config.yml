@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengze Ji"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Master student in Xi'an Jiaotong University"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,9 +27,9 @@ author:
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=CSu-XfUAAAAJ&hl=zh-CN&oi=ao"
   email            : "jec5732123@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=59166379100"
   uri              :
   bitbucket        :
   codepen          :
