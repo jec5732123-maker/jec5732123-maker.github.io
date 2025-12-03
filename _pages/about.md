@@ -53,7 +53,7 @@ PEM fuel cells (可逆PEM燃料电池建模及切换过程系统效率分析研�
 # 🎖 Honors and Awards
 - *2025.11* National Scholarship.
 - *2025.09* National Second Prize, The 12th China Graduate Energy Equipment Innovation Design Competition.
-- *2025.09* Gold Award, China International College Students’ Innovation Competition (Shaanxi Province).
+- *2025.09* Gold Award, China International College Students Innovation Competition (Shaanxi Province).
 - *2025.08* First Prize, The 20th China Postgraduate Electronic Design Competition (Northwest Part).
 - *2025.01* "Far East" First-Class Social Scholarship.
 - *2024.11* Postgraduate Special-Class Scholarship, XJTU.
